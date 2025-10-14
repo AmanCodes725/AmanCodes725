@@ -56,25 +56,27 @@
 
 Here are some of my key projects, showcasing my journey from **Data Analysis** to **Machine Learning & App Development** 🚀  
 
-🔹 [KBC Fastest Finger First App](https://github.com/AmanCodes725/KBC-FFF-App)  
-  Android app inspired by KBC’s “Fastest Finger First” round. Users can add and delete questions, customize time per question, and store data on Firebase.  
-  🛠️ Tools: Kotlin, XML, Firebase, Android Studio  
-
-🔹 [Ecommerce Data Analysis](https://github.com/AmanCodes725/Ecommerce-Data-Analysis)  
-  Analyzed sales performance using Python and SQL. Created visualizations to understand customer trends and product profitability.  
-  🛠️ Tools: Python, SQL, Pandas, Matplotlib  
-
-🔹 [Autonomous Firefighting Robot](https://github.com/AmanCodes725/Firefighting-Robot)  
-  IoT-based robot using Arduino and Bluetooth (HC-05) that can automatically detect fire and switch to manual mode.  
-  🛠️ Tools: Arduino, Sensors, Bluetooth Module, C++  
-
-🔹 [Finance Dashboard in Power BI](https://github.com/AmanCodes725/Finance-Dashboard)  
+🔹 [Super Store Sales Dashboard](https://github.com/AmanCodes725/Excel_Dashboard)  
   Created an interactive finance dashboard tracking budget vs actuals, profit trends, and KPIs.  
   🛠️ Tools: Power BI, Excel, DAX  
 
-🔹 [Student Performance Analysis](https://github.com/AmanCodes725/Student-Performance-Analysis)  
-  Analyzed student results dataset to find performance trends using Python and Power BI.  
-  🛠️ Tools: Python, Pandas, Power BI  
+🔹 [Gmail to Excel Automation Pipeline](https://github.com/AmanCodes725/Inbox-to-Excel-Automated-Gmail-Data-Pipeline)
+
+Built an automated data pipeline to extract Gmail inbox data (e.g., orders, leads, reports) into Excel using Google Apps Script and Power Query.
+📬 Emails are parsed, structured into Google Sheets, and refreshed automatically in Excel for real-time analytics.
+🛠️ Tools: Google Apps Script, Gmail API, Power Query, Excel
+
+🔹 Automated Mail Sender from Excel
+
+Developed a Python automation script to send personalized emails using Excel data, where the email body remains constant but recipient addresses and LAN numbers vary dynamically.
+📬 Streamlined internal communication by automating bulk mail distribution directly from structured Excel inputs.
+🛠️ Tools: Python, Pandas, smtplib, MIME, Excel
+
+🔹 [KBC Fastest Finger First App](https://github.com/AmanCodes725/KBC-FFF-App)  
+  Android app inspired by KBC’s “Fastest Finger First” round. Users can add and delete questions, customize time per question, and store data on Firebase.  
+  🛠️ Tools: Kotlin, XML, Firebase, Android Studio  
+ 
+
 
 ---
 
