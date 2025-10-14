@@ -39,13 +39,13 @@
 ### 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-shah01&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmanCodes725&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-shah01&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanCodes725&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-shah01&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanCodes725&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-shah01&theme=tokyonight" alt="Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanCodes725&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 
@@ -55,23 +55,23 @@
 
 Here are some of my key projects, showcasing my journey from **Data Analysis** to **Machine Learning & App Development** 🚀  
 
-🔹 [KBC Fastest Finger First App](https://github.com/aman-shah01/KBC-FFF-App)  
+🔹 [KBC Fastest Finger First App](https://github.com/AmanCodes725/KBC-FFF-App)  
   Android app inspired by KBC’s “Fastest Finger First” round. Users can add and delete questions, customize time per question, and store data on Firebase.  
   🛠️ Tools: Kotlin, XML, Firebase, Android Studio  
 
-🔹 [Ecommerce Data Analysis](https://github.com/aman-shah01/Ecommerce-Data-Analysis)  
+🔹 [Ecommerce Data Analysis](https://github.com/AmanCodes725/Ecommerce-Data-Analysis)  
   Analyzed sales performance using Python and SQL. Created visualizations to understand customer trends and product profitability.  
   🛠️ Tools: Python, SQL, Pandas, Matplotlib  
 
-🔹 [Autonomous Firefighting Robot](https://github.com/aman-shah01/Firefighting-Robot)  
+🔹 [Autonomous Firefighting Robot](https://github.com/AmanCodes725/Firefighting-Robot)  
   IoT-based robot using Arduino and Bluetooth (HC-05) that can automatically detect fire and switch to manual mode.  
   🛠️ Tools: Arduino, Sensors, Bluetooth Module, C++  
 
-🔹 [Finance Dashboard in Power BI](https://github.com/aman-shah01/Finance-Dashboard)  
+🔹 [Finance Dashboard in Power BI](https://github.com/AmanCodes725/Finance-Dashboard)  
   Created an interactive finance dashboard tracking budget vs actuals, profit trends, and KPIs.  
   🛠️ Tools: Power BI, Excel, DAX  
 
-🔹 [Student Performance Analysis](https://github.com/aman-shah01/Student-Performance-Analysis)  
+🔹 [Student Performance Analysis](https://github.com/AmanCodes725/Student-Performance-Analysis)  
   Analyzed student results dataset to find performance trends using Python and Power BI.  
   🛠️ Tools: Python, Pandas, Power BI  
 
@@ -79,8 +79,8 @@ Here are some of my key projects, showcasing my journey from **Data Analysis** t
 
 ### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-shah01/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/aman-shah01)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AmanCodes725/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AmanCodes725)  
 
 ---
 
