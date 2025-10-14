@@ -34,6 +34,10 @@
 
 ### 🔥 GitHub Stats (Auto-Updating Daily)  
 
+---
+
+### 🔥 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-shah01&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
   <br>
@@ -43,6 +47,7 @@
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-shah01&theme=tokyonight" alt="Profile Summary" />
 </p>
+
 
 ---
 
