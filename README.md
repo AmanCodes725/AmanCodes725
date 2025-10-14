@@ -39,7 +39,8 @@
 ### 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmanCodes725&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AmanCodes725&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AmanCodes725&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   <br>
