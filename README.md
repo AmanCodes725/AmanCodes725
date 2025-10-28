@@ -82,7 +82,7 @@ Developed a Python automation script to send personalized emails using Excel dat
 
 ### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/AmanCodes725/](https://www.linkedin.com/in/aman-shah-652819242/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-shah-652819242/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AmanCodes725)  
 
 ---
